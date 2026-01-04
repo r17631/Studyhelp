@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>https://github.com/r17631/Studyhelp/tree/main
+<head>
   <title>StudyHelp</title>
   <style>
     body { font-family: Arial; text-align: center; background: #f2f2f2; }
